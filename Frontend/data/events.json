@@ -309,9 +309,17 @@
     "organisation": "osoc",
     "location": "Online"
 
-  }    
-    
+  },
 
+  {
+    "title": "Saumya",
+    "website": "osoc.be",
+    "start": "5/07/2021",
+    "end": "29/07/2021",
+    "organisation": "DCube",
+    "location": "Online"
+
+  }
 
 
 ]
